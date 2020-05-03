@@ -1,8 +1,8 @@
 <?php
 	
-	namespace HelloWorld;
+	namespace imsaeedafzal\HelloWorld;
 	
-	class Hello
+	class Index
 	{
 		public function speak($name = "Hello World")
 		{
