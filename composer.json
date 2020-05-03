@@ -1,0 +1,17 @@
+{
+  "name": "imsaeedafzal/HelloWorld",
+  "description": "A simple hello world composer package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Saeed Afzal",
+      "email": "imsaeedafzal@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {"HelloWorld\\": "src/"}
+  },
+  "require": {}
+}
