@@ -9,9 +9,9 @@
       "email": "imsaeedafzal@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "autoload": {
-    "psr-4": {"HelloWorld\\": "src/"}
+    "psr-4": {"imsaeedafzal\\HelloWorld\\": "src/"}
   },
   "require": {}
 }
